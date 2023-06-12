@@ -38,6 +38,7 @@ android {
     viewBinding{
         enabled = true
     }
+    namespace 'com.pjurado.ejercicio1'
 }
 
 dependencies {
